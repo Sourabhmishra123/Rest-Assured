@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-23T23:17:55 IST" name="Default suite" finished-at="2024-04-23T23:18:09 IST" duration-ms="13770">
+    <groups>
+    </groups>
+    <test started-at="2024-04-23T23:17:55 IST" name="Default test" finished-at="2024-04-23T23:18:09 IST" duration-ms="13770">
+      <class name="REQRES.Day02_Trello">
+        <test-method signature="createTrello()[pri:0, instance:REQRES.Day02_Trello@957e06]" started-at="2024-04-23T23:17:55 IST" name="createTrello" finished-at="2024-04-23T23:18:08 IST" duration-ms="12326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTrello -->
+        <test-method signature="GetaBoard()[pri:1, instance:REQRES.Day02_Trello@957e06]" started-at="2024-04-23T23:18:08 IST" name="GetaBoard" finished-at="2024-04-23T23:18:09 IST" duration-ms="1242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetaBoard -->
+      </class> <!-- REQRES.Day02_Trello -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
